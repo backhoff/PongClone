@@ -1,0 +1,9 @@
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\bin\Debug\PongClone.exe.config
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\obj\Debug\PongClone.csprojResolveAssemblyReference.cache
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\obj\Debug\PongClone.Form1.resources
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\obj\Debug\PongClone.Properties.Resources.resources
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\obj\Debug\PongClone.csproj.GenerateResource.Cache
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\bin\Debug\PongClone.exe
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\bin\Debug\PongClone.pdb
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\obj\Debug\PongClone.exe
+C:\Users\Development\Desktop\Experimental Games\PongClone\PongClone\obj\Debug\PongClone.pdb
